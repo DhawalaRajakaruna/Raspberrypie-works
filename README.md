@@ -5,12 +5,4 @@ This project uses a webcam and the Raspberry Pi to detect the angle between the 
 
 The project uses the **OpenCV** and **MediaPipe** libraries for computer vision and hand landmark detection.
 
-## Requirements
-To run this project, ensure that your Raspberry Pi has the following:
 
-Raspberry Pi (any model with a camera) with Raspbian OS installed.
-Webcam connected to the Raspberry Pi.
-Python 3 installed on your Raspberry Pi.
-The following Python packages:
-opencv-python
-mediapipe
