@@ -57,6 +57,7 @@ while True:
         angle=(angle)+360
     print(int(angle))
     
+    
     #map the angles witha stepper motor
     #angle=angle*1.8
     #angle=int(angle)
